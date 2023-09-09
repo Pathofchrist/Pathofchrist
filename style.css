@@ -1,0 +1,30 @@
+body{background-color: antiquewhite;}
+#poct{text-align: center;}
+#tbt{width: 100px; background-color: chartreuse;}
+#testimonies{text-align: center;}
+#tstb{width: 100px; background-color: burlywood;}
+/* Style the navbar */
+.navbar {
+    background-color: black;
+    overflow: hidden;
+}
+
+/* Style the navigation buttons */
+.nav-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Hover effect for the buttons */
+.nav-button:hover {
+    background-color: #333; /* Darken the background on hover */
+}
+#Teaching{text-align: center;}
+#tebt{background-color: chocolate;}
